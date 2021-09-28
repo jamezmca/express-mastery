@@ -1,0 +1,27 @@
+{
+  "name": "express-mastery",
+  "version": "1.0.0",
+  "description": "Server setup, routing, sending data, rendering HTML, routers, advanced routing, middleware, rendering static files, parsing form/JSON data, parsing query params",
+  "main": "index.js",
+  "scripts": {
+    "devStart": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamezmca/express-mastery.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jamezmca/express-mastery/issues"
+  },
+  "homepage": "https://github.com/jamezmca/express-mastery#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^5.0.0-alpha.8"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  }
+}
